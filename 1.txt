@@ -1,6 +1,0 @@
-ddsdsdsdsdsdsd
-a
-sd
-sdsfgdfgifgfddsfjkssd 
-
-git init 使用本地仓库
